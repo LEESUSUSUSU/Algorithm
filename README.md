@@ -1,6 +1,8 @@
 # LeetCode-Algorithm
 영어문제에 익숙해지기 위해 실행합니다.
 
+sql 문제 풀기
+
 # Baek-Algorithm(java)
 
 
